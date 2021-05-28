@@ -10,7 +10,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   
   <h2>------------------------------ Anytech Inc.--------------------------------</h2>
-   Welcome to ${PREFIX}'s app. Have a great day !!!!.
+   Welcome to ${PREFIX}'s app. Have a great day EVERYDAY !!!!.
   <center><h2> </h2></center>
   <img src="https://${PLACEHOLDER}"></img>
   <!-- END -->
