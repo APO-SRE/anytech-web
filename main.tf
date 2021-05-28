@@ -22,6 +22,7 @@ resource "aws_subnet" "anytech" {
   tags = {
     name = "${var.prefix}-subnet"
     Department = "training"
+    Billable = "true"
   }
 }
 
