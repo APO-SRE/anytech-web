@@ -5,9 +5,9 @@
 terraform {
   backend "remote" {
     hostname = "app.terraform.io"
-    organization = "YOURORGANIZATION"
+    organization = "GrahamB-training"
     workspaces {
-      name = "YOURWORKSPACE"
+      name = "anytech"
     }
   }
 }
